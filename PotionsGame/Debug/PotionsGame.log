@@ -1,0 +1,6 @@
+﻿LINK : warning LNK4081: insufficient disk space; linking nonincrementally
+C:\Users\rconverse\source\repos\PotionsGame\Debug\PotionsGame.exe : fatal error LNK1108: cannot write file at 0x0
+FileTracker : error FTK1006: could not write entry to the file tracking log file: C:\Users\rconverse\source\repos\PotionsGame\PotionsGame\Debug\PotionsGame.tlog\link.read.1.tlog. There is not enough space on the disk.
+  
+  
+  
